@@ -17,4 +17,6 @@ Create a new Alexa skill and paste the following into the interaction model:
   ]
 }
 ```
+A sample utterance would be `Alexa, tell Raspberry pi to take a picture!`.
+
 See the [raspicam-server](https://github.com/jbell303/raspicam-server.git) repo for details on how to process the request on your raspberry pi. 
