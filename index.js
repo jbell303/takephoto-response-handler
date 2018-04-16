@@ -8,7 +8,7 @@
 
 // import the necessary packages
 var http = require('http');
-var url = 'http://alexaraspicam.ngrok.io/photo'; // unique tunneling url to raspberry pi server
+var url = 'https://alexaraspicam.ngrok.io/photo'; // unique tunneling url to raspberry pi server
 const Alexa = require('alexa-sdk');
 const APP_ID = 'amzn1.ask.skill.41fd0b69-d293-4ab6-9292-3496b2a89f1c'; // unique app id for alexa skill
 
